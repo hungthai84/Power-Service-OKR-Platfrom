@@ -1,0 +1,6 @@
+{
+  "name": "FlowOKR — OKR, Project & Task trên Google Sheets",
+  "description": "Ứng dụng quản trị Mục tiêu (OKR), Dự án (Project) và Công việc (Task) song ngữ Việt - Hàn, đăng nhập tài khoản Google và lưu trữ đồng bộ trực tiếp vào Google Drive & Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
